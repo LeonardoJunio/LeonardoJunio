@@ -35,7 +35,7 @@
 <div align="center">  
   <a href="https://github.com/LeonardoJunio">    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoJunio&count_private=true&show_icons=true&theme=gotham&include_all_commits=true"/>      
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoJunio&layout=compact&langs_count=10&theme=gotham"/>    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoJunio&layout=compact&langs_count=8&theme=gotham"/>    
   <img height="100em" src="https://github-profile-trophy.vercel.app/?username=LeonardoJunio&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=-1&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>    
 </div>  
   
@@ -56,7 +56,7 @@
 </div>  
 
   
-  
+
   
   
   
@@ -104,6 +104,11 @@ https://giphy.com/gifs/thecodingspacerd-space-coding-thecodingspace-ve43TyDQ3B4m
 https://giphy.com/gifs/tecnicageracao-4rZA5D22301iMgrUNd
 https://giphy.com/gifs/SWoSkN6DxTszqIKEqv
 https://giphy.com/gifs/wLNuW1tCKRiPmDV5Y4
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
 
 
 -->
