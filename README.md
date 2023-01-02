@@ -1,4 +1,8 @@
-### Bem vindo 👋 ! Sou Leonardo e atuo como desenvolvedor. 
+### Olá 👋 ! Sou Leonardo e atuo como desenvolvedor
+
+<br>
+
+* Obs.: Em construção
 
 ##
 
