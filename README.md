@@ -1,6 +1,30 @@
-### Hi there 👋
+### Bem vindo 👋 ! Sou Leonardo e atuo como desenvolvedor. 
 
+##
+
+<div align="center">  
+  <a href="https://github.com/LeonardoJunio">    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoJunio&count_private=true&show_icons=true&theme=gotham&include_all_commits=true"/>      
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoJunio&layout=compact&langs_count=10&theme=gotham"/>    
+  <img height="120em" src="https://github-profile-trophy.vercel.app/?username=LeonardoJunio&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=-1&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>    
+  
+  <div style="display: inline_block"><br>  
+    <img align="center" alt="Leo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img align="center" alt="Leo-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />  
+    <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+    <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+    <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div>
+
+  ##
+
+  <a href="https://www.linkedin.com/in/leonardo-junio-alves-de-queiroz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
+  ![Snake animation](https://github.com/LeonardoJunio/LeonardoJunio/blob/output/github-contribution-grid-snake.svg)
+          
+</div>
 <!--
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoJunio&count_private=true&show_icons=true&theme=gotham&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoJunio&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
