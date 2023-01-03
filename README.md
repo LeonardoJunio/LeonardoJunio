@@ -19,19 +19,18 @@
 name: Leonardo Queiroz
 located_in: Rio Grande do Norte, Brasil
 current_job: Full Stack Developer
-education:
-  [
-    "Degree in Computer Engineer",
-    "Graduate in Quality, Testing and Software Development with Agile Methodologies",
-    "Graduate in Big Data",
-    "Computer Network Technician",
-  ]
 goals: ["Learn and Improve knowledges"]
-hobbies: ["Coding", "Gaming", "Cinema", "Hamburger"]
+hobbies: 
+  [
+    "Coding", 
+    "Gaming", 
+    "Cinema", 
+    "Hamburger"
+  ]
 ```
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/leonardo-junio-alves-de-queiroz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/leonardo-junio-alves-de-queiroz" target="_blank"><img src="https://img.shields.io/badge/-leonardo_queiroz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-junio-alves-de-queiroz" target="_blank"></a>   
 </div>  
 
 ##
@@ -100,6 +99,8 @@ hobbies: ["Coding", "Gaming", "Cinema", "Hamburger"]
 
 ![Snake animation](https://github.com/LeonardoJunio/LeonardoJunio/blob/output/github-contribution-grid-snake.svg)   
   
+
+  <a href="https://www.linkedin.com/in/leonardo-junio-alves-de-queiroz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 **LeonardoJunio/LeonardoJunio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -147,9 +148,10 @@ located_in:
 current_job: 
 education:
   [
-    "",
-    "",
-    "",
+    "Degree in Computer Engineer",
+    "Graduate in Quality, Testing and Software Development with Agile Methodologies",
+    "Graduate in Big Data",
+    "Computer Network Technician",
   ]
 company: Soulber
 
