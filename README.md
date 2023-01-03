@@ -19,7 +19,7 @@
 name: Leonardo Queiroz
 located_in: Rio Grande do Norte, Brasil
 current_job: Full Stack Developer
-goals: ["Learn and Improve knowledges"]
+goals: ["Learn and improve knowledges"]
 hobbies: 
   [
     "Coding", 
