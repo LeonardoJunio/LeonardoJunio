@@ -23,8 +23,9 @@ goals: ["Learn and Improve knowledges"]
 hobbies: 
   [
     "Coding", 
-    "Gaming", 
+    "Learning", 
     "Cinema", 
+    "Gaming", 
     "Hamburger"
   ]
 ```
