@@ -1,7 +1,7 @@
 
 <div align="center">
   
-### Hello! 👋 I'm Leonardo, a Software Engineer
+### Hello! 👋 I'm Leonardo, a Software Developer
 
 <br>
 
