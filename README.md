@@ -1,3 +1,4 @@
+
 <div align="center">
   
 ### Hello! 👋 I'm Leonardo, a Software Engineer
@@ -8,19 +9,26 @@
 <!--   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" height="210em"/> -->
 <!--   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="210em"/> -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="250"/>
+  
 </div>
 
 
-### :man_technologist: About Me :
+### 👨🏻‍💻 About Me :
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building applications.
-
-- :zap: In my free time, I read tech articles and learn/improve technologies.
-
-- :construction: Obs.: Under construction
-
-
-<br>
+```yaml
+name: Leonardo Queiroz
+located_in: Rio Grande do Norte, Brasil
+current_job: Full Stack Developer
+education:
+  [
+    "Degree in Computer Engineer",
+    "Graduate in Quality, Testing and Software Development with Agile Methodologies",
+    "Graduate in Big Data",
+    "Computer Network Technician",
+  ]
+goals: ["Learn and Improve knowledges"]
+hobbies: ["Coding", "Gaming", "Cinema", "Hamburger"]
+```
 
 <div align="center">
   <a href="https://www.linkedin.com/in/leonardo-junio-alves-de-queiroz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -40,13 +48,16 @@
 </div>  
   
 ### :hammer_and_wrench: Languages and Tools :
-    
+
+<!-- SEPARAR em tecnologias principais(tamanho 40x50) e secundarias(tamanho 30x40) -->
+
 <div align="center" style="display: inline_block"><br>  
-  <img align="center" alt="Leo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Leo-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />  
-  <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Leo-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Leo-Php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />  
+  <img align="center" alt="Leo-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">  
+  <img align="center" alt="Leo-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
+  <img align="center" alt="Leo-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Leo-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 
   ##
@@ -56,9 +67,15 @@
 </div>  
 
   
+<br>
+<br>
+:construction: Obs.: Under construction
+  
+  
+  
+  
+  
 
-  
-  
   
   
   
@@ -109,6 +126,54 @@ https://giphy.com/gifs/wLNuW1tCKRiPmDV5Y4
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
+
+
+
+
+
+
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building applications.
+
+- :zap: In my free time, I read tech articles and learn/improve knowledges.
+
+- :construction: Obs.: Under construction
+
+
+
+```yaml
+name: 
+located_in: 
+current_job: 
+education:
+  [
+    "",
+    "",
+    "",
+  ]
+company: Soulber
+
+fields_of_interests:
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+  ]
+technical_background:
+  [
+    "",
+    "",
+    "",
+    "",
+  ]
+  
+currently_learning: [""]
+2022 Goals: [""]
+hobbies: ["", "", "", "", ""]
+```
 
 
 -->
