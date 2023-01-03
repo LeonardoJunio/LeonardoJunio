@@ -42,8 +42,9 @@ hobbies:
   
 <div align="center">  
   <a href="https://github.com/LeonardoJunio">    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoJunio&count_private=true&show_icons=true&theme=gotham&include_all_commits=true"/>      
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoJunio&layout=compact&langs_count=8&theme=gotham"/>    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoJunio&count_private=true&show_icons=true&theme=gotham&include_all_commits=true&hide_border=true"/>      
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoJunio&layout=compact&langs_count=8&theme=gotham&hide_border=true"/> 
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=LeonardoJunio&theme=gotham&hide_border=true"/>    
   <img height="100em" src="https://github-profile-trophy.vercel.app/?username=LeonardoJunio&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=-1&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>    
 </div>  
   
@@ -131,7 +132,8 @@ https://giphy.com/gifs/wLNuW1tCKRiPmDV5Y4
 
 
 
-
+ Para esconder borda, adicionar &hide_border=true
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoJunio&count_private=true&show_icons=true&theme=gotham&include_all_commits=true&hide_border=true"/>  
 
 
 
